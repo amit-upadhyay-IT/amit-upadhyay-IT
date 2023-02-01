@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Amit
-- When life is hard just hustle😊
-- I love: Speed, automobile, softwares, travelling, writing games, running and a few other things too.😉
+- 👋 Hi, my name is Amit
+- When life is hard, take a deep breath😊
+- I love: observing.😉
 - My favourite movie character: Jhon Wick.
 
 <!---
